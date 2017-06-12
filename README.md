@@ -1,2 +1,4 @@
 # hello-world
-Graphic Designer in training 
+<!doctype html>
+
+<p>Graphic Designer in training</p>
